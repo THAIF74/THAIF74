@@ -28,6 +28,6 @@ ORCID- [0009-0000-6547-3106](https://orcid.org/0009-0000-6547-3106)
 
 AI Benchmarks
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-Benchmarks-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/benchmarks/tasks/blackadmin0/ai-instruction-following-check)
+[![Kaggle](https://img.shields.io/badge/Kaggle-View_Benchmarks-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/benchmarks/tasks/blackadmin0/ai-instruction-following-check)
 
 Learning continuously. Building deliberately.
